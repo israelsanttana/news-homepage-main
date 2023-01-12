@@ -1,0 +1,33 @@
+aside {
+  width: 100%;
+  max-width: 32rem;
+  height: auto;
+  margin-left: 2.4rem;
+  background-color: var(--Very-dark-blue);
+}
+
+aside div h2 {
+  font-size: 3.6rem;
+  font-weight: 600;
+  color: var(--Soft-orange);
+  padding: 3rem 2rem 2rem;
+}
+
+aside div h3 {
+  font-size: 1.8rem;
+  font-weight: 600;
+  color: var(--Off-white);
+  padding: 1rem 2rem 1rem;
+}
+
+aside div p {
+  color: var(--Grayish-blue);
+  font-size: 1.4rem;
+  line-height: 2rem;
+  padding: 0rem 2rem 2rem;
+}
+
+aside div hr {
+  width: 86%;
+  border-width: 1px var(--Dark-grayish-blue);
+}

@@ -1,0 +1,36 @@
+section {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: row;
+  margin-top: 4rem;
+}
+
+.banner img {
+  width: 100%;
+  max-width: 68rem;
+}
+
+.info-case {
+  width: 100%;
+  max-width: 70rem;
+  display: flex;
+  margin-top: 2rem;
+}
+.info-case div h1 {
+  width: 100%;
+  max-width: 30rem;
+  font-size: 5rem;
+  font-weight: 800;
+  color: var(--Very-dark-blue);
+  margin-right: 4rem;
+}
+
+.info-case div p {
+  width: 100%;
+  max-width: 30rem;
+  font-size: 1.3rem;
+  line-height: 2.2rem;
+  font-weight: 400;
+  color: var(--Dark-grayish-blue);
+}
