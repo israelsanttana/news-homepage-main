@@ -34,3 +34,18 @@ section {
   font-weight: 400;
   color: var(--Dark-grayish-blue);
 }
+
+.info-case div button {
+  background-color: var(--Very-dark-blue);
+  color: var(--Off-white);
+  border: none;
+  padding: 1.4rem 3rem 1.4rem;
+  font-size: 1.2rem;
+  letter-spacing: 0.4rem;
+  margin-top: 3rem;
+}
+.info-case div button:hover {
+  background-color: var(--Soft-red);
+  cursor: pointer;
+  transition: 0.3s;
+}

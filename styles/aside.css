@@ -22,12 +22,19 @@ aside div h3 {
 
 aside div p {
   color: var(--Grayish-blue);
-  font-size: 1.4rem;
+  font-size: 1.3rem;
   line-height: 2rem;
   padding: 0rem 2rem 2rem;
+  font-weight: 200;
 }
 
 aside div hr {
   width: 86%;
-  border-width: 1px var(--Dark-grayish-blue);
+  border: solid 0.5px var(--Dark-grayish-blue);
+}
+
+aside div h3:hover {
+  color: var(--Soft-orange);
+  cursor: pointer;
+  transition: 0.3s;
 }
