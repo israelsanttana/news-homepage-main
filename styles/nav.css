@@ -6,6 +6,11 @@ nav {
   align-items: center;
 }
 
+header {
+  width: 84%;
+  max-width: 960px;
+}
+
 .nav {
   display: flex;
 }
