@@ -9,6 +9,8 @@ nav {
 header {
   width: 84%;
   max-width: 960px;
+  display: flex;
+  justify-content: center;
 }
 
 .nav {
