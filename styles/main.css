@@ -56,9 +56,8 @@ main {
     height: 100vh;
     margin: 1rem;
   }
-  nav {
-    display: none;
-  }
+
+
   section {
     flex-direction: column;
   }
