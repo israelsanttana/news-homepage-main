@@ -53,6 +53,10 @@ main {
 
 @media (max-width: 490px) {
 
+  .open-menu, .close-menu:hover{
+    cursor: pointer;
+  }
+
   .nav {
     height: 100vh;
     width: 70vw;
